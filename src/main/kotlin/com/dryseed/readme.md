@@ -12,8 +12,8 @@
 * 3-1 常量与变量(val,var) Main.kt
 * 3-2 函数（function） Main.kt
 * 3-3 Lambda表达式 Main.kt
-* 3-4 类成员（成员方法、成员变量）
-* 3-5 基本运算符
+* 3-4 类成员（成员方法、成员变量） meizi.kt MoreAboutMembers.kt
+* 3-5 基本运算符 Complex.kt
 * 3-6 表达式（中缀表达式，分支表达式，when表达式等）
 * 
 * 
